@@ -132,6 +132,10 @@ The system is developed using the following technologies:
 * MediaPipe
 * Speech Recognition
 * NumPy
+* speechrecognition
+* pyaudio
+* pyttsx3
+* sounddevice
 * Natural Language Processing (NLP)
 * Computer Vision
 * Machine Learning Concepts
@@ -263,8 +267,12 @@ The AI Interview Simulator can be used in:
 * Professional skill development workshops
 
 
+## 👤 Author
 
-* **Short portfolio description (3–5 lines)**
-* **CV project description**
-* **GitHub project summary**
-* **System architecture diagram**
+**HOSEN ARAFAT**  
+
+**Bachelor of Software Engineering, China**  
+
+**GitHub:** https://github.com/arafathosense
+
+**Research Interest: Image Computing and Perceptual Intelligence**
